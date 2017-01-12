@@ -1,0 +1,9 @@
+Things you have to do for applicaion setup:
+
+* bundle install
+
+* rake db:create (Using mysql), So setup password in config/database.yml file
+
+* rake db:migrate
+
+* rails server
